@@ -4,3 +4,4 @@ appsettings.json
 *.db
 .vs
 .vscode
+.DS_Store
